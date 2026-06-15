@@ -4,16 +4,16 @@
 ![swappy-20240524-213815](https://github.com/ecnivs/DOOM/assets/106900369/3b43bdbd-11fd-4543-a37d-58f0dd332ea8)
 
 <p align="center">
-  <a href="https://github.com/ecnivs/doom-scout/stargazers">
-    <img src="https://img.shields.io/github/stars/ecnivs/doom-scout?style=flat-square">
+  <a href="https://github.com/vinceswu/doom-scout/stargazers">
+    <img src="https://img.shields.io/github/stars/vinceswu/doom-scout?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/doom-scout/issues">
-    <img src="https://img.shields.io/github/issues/ecnivs/doom-scout?style=flat-square">
+  <a href="https://github.com/vinceswu/doom-scout/issues">
+    <img src="https://img.shields.io/github/issues/vinceswu/doom-scout?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/doom-scout/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ecnivs/doom-scout?style=flat-square">
+  <a href="https://github.com/vinceswu/doom-scout/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vinceswu/doom-scout?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/languages/top/ecnivs/doom-scout?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/vinceswu/doom-scout?style=flat-square">
 </p>
 
 ## Overview
